@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }
     public void abrirtela_cadastrobixo(View v){
-        Intent int_ = new Intent(this, cadastro_bixo.class);
+        Intent int_telacadastrobixo = new Intent(this, cadastro_bixo.class);
         startActivity(int_telacadastrobixo);
     }
 }
