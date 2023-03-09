@@ -65,4 +65,25 @@
         android:translationX="74dp"
         android:translationY="23dp" />
 
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:background="#AFAFAF"
+        android:gravity="center"
+        android:text="Insira a imagem do bixo"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:translationX="75dp"
+        android:translationY="70dp" />
+
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
+        android:translationX="130dp"
+        android:translationY="80dp"
+        tools:srcCompat="@tools:sample/avatars" />
+
 </LinearLayout>
