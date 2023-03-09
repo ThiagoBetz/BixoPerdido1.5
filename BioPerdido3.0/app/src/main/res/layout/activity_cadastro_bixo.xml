@@ -7,83 +7,101 @@
     android:orientation="vertical"
     tools:context=".cadastro_bixo">
 
-    <TextView
-        android:id="@+id/textView"
-        android:layout_width="374dp"
-        android:layout_height="38dp"
-        android:background="#AFAFAF"
-        android:gravity="center"
-        android:text="Criar publicação Bixo perdido"
-        android:textColor="#000000"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        android:translationX="20dp" />
+    <LinearLayout
+        android:layout_width="392dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="374dp"
-        android:layout_height="27dp"
-        android:background="#AFAFAF"
-        android:text="Espécie do bixo"
-        android:textColor="#000000"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        android:translationX="20dp"
-        android:translationY="30dp" />
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="374dp"
+            android:layout_height="38dp"
+            android:background="#AFAFAF"
+            android:gravity="center"
+            android:text="Criar publicação Bixo perdido"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:translationX="20dp" />
 
-    <EditText
-        android:id="@+id/editTextTextPersonName"
-        android:layout_width="374dp"
-        android:layout_height="27dp"
-        android:background="#AFAFAF"
-        android:ems="10"
-        android:inputType="textPersonName"
-        android:text="Nome do seu bixo"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        android:translationX="20dp"
-        android:translationY="40dp" />
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="374dp"
+            android:layout_height="27dp"
+            android:background="#AFAFAF"
+            android:text="Espécie do bixo                                               "
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:translationX="20dp"
+            android:translationY="30dp" />
 
-    <Button
-        android:id="@+id/button"
-        android:layout_width="54dp"
-        android:layout_height="27dp"
-        android:background="#AFAFAF"
-        android:translationX="20dp"
-        android:translationY="50dp"
-        app:icon="@drawable/botao_local" />
+        <EditText
+            android:id="@+id/editTextTextPersonName"
+            android:layout_width="374dp"
+            android:layout_height="27dp"
+            android:background="#AFAFAF"
+            android:ems="10"
+            android:inputType="textPersonName"
+            android:text="Nome do seu bixo                                                                             "
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:translationX="20dp"
+            android:translationY="40dp" />
 
-    <TextView
-        android:id="@+id/textView5"
-        android:layout_width="320dp"
-        android:layout_height="27dp"
-        android:background="#AFAFAF"
-        android:text="TextView"
-        android:textColor="#000000"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        android:translationX="74dp"
-        android:translationY="23dp" />
+        <Button
+            android:id="@+id/button"
+            android:layout_width="54dp"
+            android:layout_height="27dp"
+            android:background="#AFAFAF"
+            android:translationX="20dp"
+            android:translationY="50dp"
+            app:icon="@drawable/botao_local" />
 
-    <TextView
-        android:id="@+id/textView6"
-        android:layout_width="250dp"
-        android:layout_height="wrap_content"
-        android:background="#AFAFAF"
-        android:gravity="center"
-        android:text="Insira a imagem do bixo"
-        android:textColor="#000000"
-        android:textSize="20sp"
-        android:textStyle="bold"
-        android:translationX="75dp"
-        android:translationY="70dp" />
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="317dp"
+            android:layout_height="27dp"
+            android:background="#AFAFAF"
+            android:text="TextView"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:translationX="74dp"
+            android:translationY="23dp" />
 
-    <ImageButton
-        android:id="@+id/imageButton"
-        android:layout_width="140dp"
-        android:layout_height="140dp"
-        android:translationX="130dp"
-        android:translationY="80dp"
-        tools:srcCompat="@tools:sample/avatars" />
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="248dp"
+            android:layout_height="wrap_content"
+            android:background="#AFAFAF"
+            android:gravity="center"
+            android:text="Insira a imagem do bixo"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            android:translationX="75dp"
+            android:translationY="70dp" />
+
+        <ImageButton
+            android:id="@+id/imageButton"
+            android:layout_width="140dp"
+            android:layout_height="140dp"
+            android:translationX="130dp"
+            android:translationY="80dp"
+            tools:srcCompat="@tools:sample/avatars" />
+
+        <EditText
+            android:id="@+id/editTextTextMultiLine2"
+            android:layout_width="374dp"
+            android:layout_height="274dp"
+            android:background="#AFAFAF"
+            android:ems="10"
+            android:gravity="start|top"
+            android:inputType="textMultiLine"
+            android:text="Descrição:"
+            android:translationX="20dp"
+            android:translationY="100dp" />
+    </LinearLayout>
 
 </LinearLayout>
