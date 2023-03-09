@@ -13,6 +13,10 @@ drawable chacoroo
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable pesquisa
+id BtnEsqueceuSenha
+id TextoDigitarSenha
+id TextoEditarEmail
+id btnInicio
 id button4
 id button5
 id button9
