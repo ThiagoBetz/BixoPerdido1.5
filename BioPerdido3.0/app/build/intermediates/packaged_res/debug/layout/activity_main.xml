@@ -29,73 +29,64 @@
         app:layout_constraintStart_toStartOf="parent"
         app:srcCompat="@drawable/chacoroo" />
 
-    <TableLayout
-        android:layout_width="409dp"
-        android:layout_height="621dp"
-        tools:layout_editor_absoluteX="1dp"
+    <TableRow
+        android:layout_width="412dp"
+        android:layout_height="842dp"
+        tools:layout_editor_absoluteX="-1dp"
         tools:layout_editor_absoluteY="1dp">
 
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent">
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            tools:srcCompat="@tools:sample/avatars" />
 
-            <ImageView
-                android:id="@+id/imageView2"
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                tools:srcCompat="@tools:sample/avatars" />
+        <LinearLayout
+            android:id="@+id/on"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/editTextTextMultiLine"
+                android:layout_width="281dp"
+                android:layout_height="81dp"
+                android:ems="10"
+                android:gravity="start|top"
+                android:inputType="textMultiLine" />
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:orientation="vertical">
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
 
-                <EditText
-                    android:id="@+id/editTextTextMultiLine"
-                    android:layout_width="281dp"
-                    android:layout_height="81dp"
-                    android:ems="10"
-                    android:gravity="start|top"
-                    android:inputType="textMultiLine" />
+                <Button
+                    android:id="@+id/button4"
+                    android:layout_width="1dp"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:backgroundTint="#FFFFFF"
+                    app:icon="@drawable/botao_local"
+                    app:iconTint="#000000" />
 
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="match_parent"
-                    android:orientation="horizontal">
-
-                    <Button
-                        android:id="@+id/button4"
-                        android:layout_width="1dp"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:backgroundTint="#FFFFFF"
-                        app:icon="@drawable/botao_local"
-                        app:iconTint="#000000" />
-
-                    <Button
-                        android:id="@+id/button5"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_weight="1"
-                        android:backgroundTint="#218C01"
-                        android:text="Mensagem" />
-                </LinearLayout>
-
+                <Button
+                    android:id="@+id/button5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="1"
+                    android:backgroundTint="#218C01"
+                    android:text="Mensagem" />
             </LinearLayout>
 
-        </TableRow>
+            <Button
+                android:id="@+id/button2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:onClick="OnClickBtn2"
+                android:text="Button" />
 
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
+        </LinearLayout>
 
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent" />
-    </TableLayout>
+    </TableRow>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

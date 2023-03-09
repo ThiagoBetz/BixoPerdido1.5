@@ -2586,6 +2586,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable locationpointer
 drawable m3_appbar_background
 drawable m3_popupmenu_background_overlay
 drawable m3_radiobutton_ripple
@@ -2750,6 +2751,7 @@ id auto
 id autoComplete
 id autoCompleteToEnd
 id autoCompleteToStart
+id bahmeu2
 id barrier
 id baseline
 id beginOnFirstDraw
@@ -2762,6 +2764,8 @@ id bounceBoth
 id bounceEnd
 id bounceStart
 id btnInicio
+id button
+id button2
 id button4
 id button5
 id button9
@@ -2838,6 +2842,7 @@ id easeInOut
 id easeOut
 id east
 id editTextTextMultiLine
+id editTextTextPersonName
 id edit_query
 id elastic
 id embed
@@ -3101,6 +3106,9 @@ id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
 id textTop
+id textView
+id textView2
+id textView5
 id text_input_end_icon
 id text_input_error_icon
 id text_input_start_icon
