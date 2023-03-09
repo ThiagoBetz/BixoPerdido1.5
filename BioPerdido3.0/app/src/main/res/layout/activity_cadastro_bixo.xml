@@ -22,7 +22,7 @@
     <TextView
         android:id="@+id/textView2"
         android:layout_width="374dp"
-        android:layout_height="wrap_content"
+        android:layout_height="27dp"
         android:background="#AFAFAF"
         android:text="Espécie do bixo"
         android:textColor="#000000"
@@ -34,7 +34,7 @@
     <TextView
         android:id="@+id/textView3"
         android:layout_width="374dp"
-        android:layout_height="wrap_content"
+        android:layout_height="27dp"
         android:background="#AFAFAF"
         android:text="Nome do bixo perdido"
         android:textColor="#000000"
@@ -43,16 +43,26 @@
         android:translationX="20dp"
         android:translationY="40dp" />
 
-    <TextView
-        android:id="@+id/textView4"
-        android:layout_width="374dp"
-        android:layout_height="wrap_content"
+    <Button
+        android:id="@+id/button"
+        android:layout_width="54dp"
+        android:layout_height="27dp"
         android:background="#AFAFAF"
-        android:text="Espécie do bixo"
+        android:backgroundTint="#AFAFAF"
+        android:translationX="20dp"
+        android:translationY="50dp"
+        app:icon="@drawable/botao_local" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="315dp"
+        android:layout_height="27dp"
+        android:background="#AFAFAF"
+        android:text="Local aonde foi visto por ultimo"
         android:textColor="#000000"
         android:textSize="20sp"
         android:textStyle="bold"
-        android:translationX="20dp"
-        android:translationY="50dp" />
+        android:translationX="74dp"
+        android:translationY="23dp" />
 
 </LinearLayout>
