@@ -1,118 +1,122 @@
 [
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-mdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\drawable_chacoroo.jpg.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-main-32:\\drawable\\chacoroo.jpg"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-hdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-main-32:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-main-32:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/layout_activity_main.xml.flat",
         "source": "com.bixo.perdido.bixoperdido.app-main-32:/layout/activity_main.xml"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\layout_activity_login_usuario.xml.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-main-32:\\layout\\activity_login_usuario.xml"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-anydpi-v26/ic_launcher.xml"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-main-32:\\layout\\activity_main.xml"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/drawable_chacoroo.jpg.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-main-32:/drawable/chacoroo.jpg"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-mdpi/ic_launcher.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\drawable_pesquisa.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-main-32:\\drawable\\pesquisa.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/xml_data_extraction_rules.xml.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-main-32:/xml/data_extraction_rules.xml"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/layout_activity_cadastro_bixo.xml.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-main-32:/layout/activity_cadastro_bixo.xml"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-xxhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\drawable_botao_local.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-main-32:\\drawable\\botao_local.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-pngs-25:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/drawable_pesquisa.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-main-32:/drawable/pesquisa.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\drawable_button1.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-main-32:\\drawable\\button1.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\drawable_locationpointer.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\drawable\\locationpointer.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-pngs-25:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-hdpi/ic_launcher.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\drawable\\ic_launcher_background.xml"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/drawable_ic_launcher_background.xml.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/drawable/ic_launcher_background.xml"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/xml_backup_rules.xml.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-main-32:/xml/backup_rules.xml"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/mipmap-xhdpi/ic_launcher_foreground.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\layout_activity_cadastro_bixo.xml.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-main-32:\\layout\\activity_cadastro_bixo.xml"
     },
     {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/layout_activity_login_usuario.xml.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-main-32:/layout/activity_login_usuario.xml"
-    },
-    {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/drawable_botao_local.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-main-32:/drawable/botao_local.png"
-    },
-    {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/drawable_locationpointer.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-debug-31:/drawable/locationpointer.png"
-    },
-    {
-        "merged": "com.bixo.perdido.bixoperdido.app-merged_res-30:/drawable_button1.png.flat",
-        "source": "com.bixo.perdido.bixoperdido.app-main-32:/drawable/button1.png"
+        "merged": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-merged_res-30:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\aluno\\.gradle\\daemon\\7.4\\com.bixo.perdido.bixoperdido.app-debug-31:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     }
 ]
